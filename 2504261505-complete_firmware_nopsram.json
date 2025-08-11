@@ -1,0 +1,10 @@
+{
+  "name": "ESPeccy",
+  "version": "2025/04/26 15:05 (NO PSRAM)",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [{ "path": "firmwares/2504261505-complete_firmware_nopsram.bin", "offset": 0 }]
+    }
+  ]
+}
