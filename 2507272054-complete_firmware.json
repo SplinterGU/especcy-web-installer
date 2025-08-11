@@ -4,7 +4,7 @@
   "builds": [
     {
       "chipFamily": "ESP32",
-      "parts": [{ "path": "firmwares/2507272054-complete_firmware.bin", "offset": 0 }]
+      "parts": [{ "path": "https://raw.githubusercontent.com/SplinterGU/especcy-web-installer/main/firmwares/2507272054-complete_firmware.bin", "offset": 0 }]
     }
   ]
 }

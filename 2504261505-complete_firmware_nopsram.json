@@ -4,7 +4,7 @@
   "builds": [
     {
       "chipFamily": "ESP32",
-      "parts": [{ "path": "firmwares/2504261505-complete_firmware_nopsram.bin", "offset": 0 }]
+      "parts": [{ "path": "https://raw.githubusercontent.com/SplinterGU/especcy-web-installer/main/firmwares/2504261505-complete_firmware_nopsram.bin", "offset": 0 }]
     }
   ]
 }
